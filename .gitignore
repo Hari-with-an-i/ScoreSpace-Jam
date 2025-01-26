@@ -1,0 +1,19 @@
+*.log
+*.tmp
+node_modules/
+build/
+.DS_Store
+*.swp
+
+# Unity generated files
+Library/
+Temp/
+Obj/
+Build/
+BuildSettings/
+.vs/
+.idea/
+.vscode/
+*.csproj
+*.sln
+*.user
